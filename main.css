@@ -1,0 +1,38 @@
+body {
+  background-color: black;
+}
+
+.canvas {
+  position: fixed;
+  background-color: linen;
+  border: solid;
+  width: 880px;
+  height: 484px;
+  display: inline-block;
+  border-radius: 10px;
+  margin-left: 260px;
+}
+
+.cells {
+  border: 1px solid black;
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  float: right;
+}
+
+h1 div {
+  text-underline-position: alphabetic;
+  border: 1px solid white;
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: red;
+}
